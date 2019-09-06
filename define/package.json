@@ -1,0 +1,13 @@
+{
+  "name": "define",
+  "version": "1.0.0",
+  "description": "Returns Urban Dictionary definitions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "0.19.0",
+    "lodash": "4.17.15"
+  }
+}
